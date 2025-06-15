@@ -14,14 +14,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Beyond the Bench: Navivating Academia & Biotech as an Engineer # the main title
+title: "Beyond the Bench: Navigating Academia & Biotech as an Engineer" # the main title
 
 tagline: Insights from the intersection of biomedical engineering, R&D, and the PhD path. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  This blog offers in-depth insights from an experienced biomedical engineer with a unique journey spanning postdoctoral research and industry leadership. Explore the critical intersection of cancer biology, process development, and biomedical engineering as we bridge cutting-edge academic discoveries with real-world industrial innovation (R&D).
-
-Discover advanced perspectives, career transitions, and practical lessons learned from years in the lab and the field. This site is for engineering and biotech professionals, scientists in pharma and biotech, and anyone passionate about advanced engineering and bringing transformative biotech applications from the bench to market..
+  This blog offers in-depth insights from an experienced biomedical engineer with a unique journey spanning postdoctoral research and industry leadership. Explore the critical intersection of cancer biology, process development, and biomedical engineering as we bridge cutting-edge academic discoveries with real-world industrial innovation (R&D). Discover advanced perspectives, career transitions, and practical lessons learned from years in the lab and the field. This site is for engineering and biotech professionals, scientists in pharma and biotech, and anyone passionate about advanced engineering and bringing transformative biotech applications from the bench to market.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -31,7 +29,7 @@ github:
   username: kilean-lucas # change to your GitHub username
 
 #twitter:
-  #username: twitter_username # change to your Twitter username
+#username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
