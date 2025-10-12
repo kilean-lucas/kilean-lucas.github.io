@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title:  Kilean Lucas, PhD # the website title (if blank, full name will be used instead)
+title:  blank # the website title (if blank, full name will be used instead)
 first_name: Kilean
 middle_name: Lucas
 last_name: PhD
