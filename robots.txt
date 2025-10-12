@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kilean-lucas.github.io/sitemap.xml
+Sitemap: https://github.com/kilean-lucas/kilean-lucas.github.io/sitemap.xml
