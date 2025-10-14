@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Harvard Medical School, University of Rochester, Montana State University</a>. Boston, MA. 
+subtitle: <a href='#'>Harvard Medical School, University of Rochester, Montana State University</a>. \
+          Boston, MA. 
 
 profile:
   align: right
@@ -24,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I grew up in Livingston, Montana. I pursued a double major in chemical engineering and biological engineering from Montana State University before getting my PhD in biomedical engineering at the University of Rochester. My PhD thesis focused on the development of microfluidic devices for the isolation and profiling of circulating tumor biomarkers for bladder cancer and resulted in multiple publications and patents.
+I pursued a double major in chemical engineering and biological engineering from Montana State University before getting my PhD in biomedical engineering at the University of Rochester. My PhD thesis focused on the development of microfluidic devices for the isolation and profiling of circulating tumor biomarkers for bladder cancer and resulted in multiple publications and patents.
 
 After graduating, I did my postdoctoral fellowship at Harvard Medical School/Massachusetts General Hospital in the Center for Systems Biology under the supervision of Dr. Ralph Weissleder. My projects focused on the use of bio-orthogonal chemistries for spatial transcriptomics applications, looking specifically at the intratumoral gene expression within lung cancer and head and neck squamous cell carcinoma.
 
