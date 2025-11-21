@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Microbially Influenced Corrosion
-description: The project that I worked on for my undergraduate research
+description: 
 img: assets/img/projects/project_1/8_a1_01.jpg
 importance: 1
 category: work
@@ -15,35 +15,14 @@ However, studies have shown that some marine bacteria (namely several species of
 The project that I worked on during my undergraduate research career at the Imaging and Chemical Analysis Lab at Montana State University focused heavily on understanding the molecular mechanisms that led to the increased rates of corrosion in these fuel/seawater systems. Over the course of 4 years, I developed workflows to characterize the metabolites within these microbial systems and the resulting effects found on the steel surfaces. One of the key discoveries that I made was the evidence of increased rates of localized corrosion at the site of manganese sulfide (MnS) inclusions that were present within the steel that we used as a model system. Imaging the corroded surface of the steel coupons that we exposed to the fuel/seawater environment revealed that MnS inclusions had greater rates of aggressive pitting corrosion of the steel, while the MnS itself remained untouched. This suggested that the steel within the region of these MnS inclusions had higher strain, likely leading to a better likelihood of the steel becoming involved in the corrosion byproduct formation and enhancing the overall rate of corrosion.
 
 
- [//]: <> (  ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---)
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/project_1/1018_Front_14.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Pitting corrosion at the site of a manganese sulfide (MnS) inclusion. Relative to the bulk steel, corrosion occurs at a higher rate near the inclusion.
 </div>
 
 You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
