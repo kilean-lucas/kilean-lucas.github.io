@@ -431,7 +431,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-microbially-influenced-corrosion",
           title: 'Microbially Influenced Corrosion',
-          description: "The project that I worked on for my undergraduate research",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
