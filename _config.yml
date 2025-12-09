@@ -7,7 +7,7 @@ first_name: Kilean
 middle_name: Lucas
 last_name: PhD
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  If you want to get in touch with me, please feel free to reach out via email or connect with me on LinkedIn.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Welcome to my personal website! Please feel free to browse and check out my passion projects, my research, and my background.
 footer_text: >
@@ -191,8 +191,8 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - repositories.md
-  - books.md
+  - _pages/repositories.md
+  - _pages/books.md
 keep_files:
   - CNAME
   - .nojekyll
