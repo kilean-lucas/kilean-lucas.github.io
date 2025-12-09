@@ -3,8 +3,8 @@ layout: about
 title: Welcome
 permalink: /
 subtitle: <a href='#'>Ph.D. Biomedical Engineering - University of Rochester  
-                      B.S. Chemical Engineering - Montana State University  
-                      B.S. Biological Engineering - Montana State University  </a>
+                      <br> B.S. Chemical Engineering - Montana State University </br>  
+                      <br> B.S. Biological Engineering - Montana State University </br>  </a>
           Boston, MA. 
 
 profile:
