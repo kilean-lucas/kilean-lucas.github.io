@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'>Ph.D. Biomedical Engineering - University of Rochester  
                       <br> B.S. Chemical Engineering - Montana State University </br>  
                       <br> B.S. Biological Engineering - Montana State University </br>  </a>
-          Boston, MA. 
+          <br> Boston, MA. </br> 
 
 profile:
   align: right
